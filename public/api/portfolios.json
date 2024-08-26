@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "title": "Crimson Mart",
+        "subtitle": "Full Stack Web Dev Project",
+        "coverimage": "/images/portfolios/crimson.png",
+        "imagegallery": false,
+        "videogallery": ["https://www.youtube.com/watch?v=hkWtU7s1gCw"],
+        "url": "https://github.com/Tsehben/Crimson_Mart",
+        "filters": ["web"]
+    },
+    {
+        "id": 2,
+        "title": "Expensso AI",
+        "subtitle": "Full Stack iOS and IpadOS AI Project",
+        "coverimage": "/images/portfolios/expenssoImg.png",
+        "imagegallery": false,
+        "videogallery": ["https://www.youtube.com/watch?v=Ka4UqnqVV70"],
+        "url": "https://github.com/Tsehben/Expensso-AI",
+        "filters": ["mobile", "ml"]
+    },
+    {
+        "id": 3,
+        "title": "Image Classifier",
+        "subtitle": "Machine Learning Project",
+        "coverimage": "/images/portfolios/imageclass.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/Tsehben/image_classifier",
+        "filters": ["ml"]
+    },
+    {
+        "id": 4,
+        "title": "Exeatlog",
+        "subtitle": "Full Stack Web Dev Project",
+        "coverimage": "/images/portfolios/exeatlog.png",
+        "imagegallery": false,
+        "videogallery": ["https://www.youtube.com/watch?v=Foe4sp3iXmg"],
+        "url": "https://github.com/Tsehben/exeatlog",
+        "filters": ["web"]
+    },
+    {
+        "id": 5,
+        "title": "Beta Hustle",
+        "subtitle": "Flutter Based Project",
+        "coverimage": "/images/portfolios/beta.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/Kwakyecodes/Beta_Hustle",
+        "filters": ["mobile"]
+    },
+    {
+        "id": 6,
+        "title": "Task Tracker",
+        "subtitle": "ReactJS Project",
+        "coverimage": "/images/portfolios/todotrack.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/Tsehben/reactJS-task-tracker",
+        "filters": ["web"]
+    }
+    
+]

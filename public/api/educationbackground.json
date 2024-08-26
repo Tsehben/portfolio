@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "High School Certificate",
+        "meta": "Presbyterian Boys' Secondary School",
+        "text": "Completed rigorous coursework with a focus on the sciences, developing a strong foundation in critical thinking, problem-solving, and leadership skills through active participation in various extracurricular activities.",
+        "year": "2017 - 2020"
+    },
+    {
+        "id": 2,
+        "title": "Bachelor of Science",
+        "meta": "Harvard University",
+        "text": "Pursuing a comprehensive curriculum in Computer Science, gaining hands-on experience in software development, data analysis, and artificial intelligence.",
+        "year": "2023 - 2027"
+    }
+]

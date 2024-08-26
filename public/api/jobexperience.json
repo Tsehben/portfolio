@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer Intern",
+        "meta": "Melit Trade  - Remote",
+        "text": [
+            "Developed a full-stack international trading and e-commerce platform using React.js, Node.js, and MongoDB, facilitating seamless transactions for users across 4 countries.",
+            "Enhanced site responsiveness and scalability by implementing Redux for state management, reducing page load times from ~1 min to ~30 secs.",
+            "Integrated Stripe payment gateway, streamlining the checkout process and reducing transaction time by 25%, resulting in a 15% increase in completed orders."
+        ],
+        "year": "May, 2024 - Aug, 2024"
+    },
+    {
+        "id": 2,
+        "title": "Software Engineer Intern",
+        "meta": "Vodafone Ghana - Accra, Ghana",
+        "text": [
+            "Collaborated in a cross-functional team, adhering to agile methodologies, to develop an AI chatbot for Vodafone's app using Kotlin, enabling efficient customer support via natural language interactions.",
+            "Integrated TensorFlow Lite and Google's Machine Learning Kit for natural language processing (NLP), allowing the chatbot to understand and respond intelligently to user queries.",
+            "Optimized app performance by implementing efficient algorithms and streamlining databases under the guidance of senior engineers, achieving a 30% reduction in load times."
+        ],
+        "year": "May, 2023 - July, 2023"
+    }
+]

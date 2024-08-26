@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "Advanced UI/UX Design",
+        "text": "I'm building on my understanding of UI/UX design by exploring more sophisticated techniques, such as user-centered design processes and the integration of advanced design tools like Figma and Adobe XD.",
+        "icon": "/icons/quill-pen-line.svg"
+    },
+    {
+        "id": 2,
+        "title": "Modern Web Development Frameworks",
+        "text": "I'm expanding my web development skills by diving deeper into modern frameworks such as React.js and Next.js, focusing on building scalable and efficient web applications.",
+        "icon": "/icons/code-s-slash-line.svg"
+    },
+    {
+        "id": 3,
+        "title": "Native Mobile App Development",
+        "text": "I'm enhancing my knowledge in mobile app development by focusing on native development for iOS and Android, using Swift and Kotlin to create high-performance, platform-specific applications.",
+        "icon": "/icons/smartphone-line.svg"
+    },
+    {
+        "id": 4,
+        "title": "Data Analytics & Visualization",
+        "text": "I'm deepening my understanding of data analytics by learning how to create more sophisticated data visualizations and dashboards using tools like D3.js and Tableau, with a focus on deriving actionable insights from complex data sets.",
+        "icon": "/icons/pie-chart-line.svg"
+    },
+    {
+        "id": 5,
+        "title": "Machine Learning",
+        "text": "I'm building on my foundational knowledge in machine learning, focusing on implementing algorithms and models using frameworks like TensorFlow and scikit-learn to solve real-world problems.",
+        "icon": "/icons/robot-line.svg"
+    },
+    {
+        "id": 6,
+        "title": "Cloud Architecture & Services",
+        "text": "I'm advancing my cloud computing knowledge by exploring cloud architecture design, with a focus on using AWS and Google Cloud services to build scalable and resilient applications.",
+        "icon": "/icons/cloud-line.svg"
+    }
+
+    
+]
+

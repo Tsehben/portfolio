@@ -1,0 +1,31 @@
+{
+    "firstName": "Ebenezer",
+    "lastName": "Tseh",
+    "fullName": "Ebenezer Tseh",
+    "thumbImage": "/images/formal-image.png",
+    "largeImage": "/images/about.png",
+    "bio": "I am a Computer Science student exploring different areas of software engineering. I write clean code and work on dynamic projects. I also enjoy making applications more interactive as I learn and grow as a software Engineer.",
+    
+   
+    "languages": [
+        "English",
+        "French"
+    ],
+    "address": "101 Dunster St, Cambridge, MA 02138",
+    
+    "socialAddress": {
+        "facebook": "https://www.facebook.com/profile.php?id=100005640918499",
+        "twitter": "https://x.com/@TsehEbenezer",
+        "github": "https://github.com/Tsehben",
+        "linkedin": "https://www.linkedin.com/in/ebenezer-tseh-3b9a03200",
+        "instagram": "https://www.instagram.com/kwaku_etsh/"
+    },
+    "phoneNumbers": [
+        "+1 857 756 3208"
+       
+    ],
+    "emailAddress": [
+        "ebenezertseh@college.harvard.edu",
+        "ebenezertseh2002@gmail.com"
+    ]
+}

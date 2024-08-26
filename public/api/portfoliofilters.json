@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development",
+        "value": "web"
+    },
+    {
+        "id": 2,
+        "title": "Mobile Development",
+        "value": "mobile"
+    },
+    {
+        "id": 3,
+        "title": "Machine Learning/ AI",
+        "value": "ml"
+    }
+]
