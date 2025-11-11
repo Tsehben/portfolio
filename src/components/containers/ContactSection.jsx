@@ -65,15 +65,15 @@ Whether you have a project in mind, a question, or just want to chat, feel free 
 								))}
 							</div>
 						</div>
-						<div className="contact-block card flex p-4 md:p-5">
+						{/* <div className="contact-block card flex p-4 md:p-5">
 							<span className="icon mr-4 inline-flex h-16 w-16 shrink-0 grow-0 basis-16 items-center justify-center rounded-full bg-primary bg-opacity-10 text-3xl text-primary">
 								<RiMapPinLine />
 							</span>
 							<div className="content">
 								<h5 className="mb-2">Contact address</h5>
-								<p className="mb-0">101 Dunster St, Cambridge, MA 02138</p>
+								<p className="mb-0">N/A</p>
 							</div>
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</motion.div>

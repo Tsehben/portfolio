@@ -78,12 +78,12 @@ const AboutSection = () => {
 								: {data.languages.join(", ")}
 							</li>
 						) : null}
-						{data.address && (
+						{data.emailAddress && data.emailAddress.length > 0 && (
 							<li className="text-lg">
 								<strong className="inline-block min-w-[120px] font-medium">
-									Address{" "}
+									Email{" "}
 								</strong>
-								: {data.address}
+								: {data.emailAddress[0]}
 							</li>
 						)}
 						
